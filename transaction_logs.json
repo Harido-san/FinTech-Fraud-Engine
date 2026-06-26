@@ -1,0 +1,2720 @@
+[
+    {
+        "transaction_id": "TXN-F354EA10620F",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T19:11:32.293062",
+        "amount_usd": 71.3,
+        "merchant_category": "Fuel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-43BCBE26B638",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T19:11:46.293062",
+        "amount_usd": 303.74,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2DB8A8289616",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T19:12:24.293062",
+        "amount_usd": 166.52,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F48933EE8219",
+        "account_id": "ACCT-0030",
+        "timestamp": "2026-06-26T19:13:09.293062",
+        "amount_usd": 365.02,
+        "merchant_category": "Travel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D815EE0F312A",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T19:13:18.293062",
+        "amount_usd": 48.4,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-52C1C9AF79FD",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T19:13:46.293062",
+        "amount_usd": 152.34,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-28E5BFCADD5D",
+        "account_id": "ACCT-0005",
+        "timestamp": "2026-06-26T19:14:10.293062",
+        "amount_usd": 33.11,
+        "merchant_category": "Groceries",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-FC708DE6A44F",
+        "account_id": "ACCT-0018",
+        "timestamp": "2026-06-26T19:14:44.293062",
+        "amount_usd": 98.83,
+        "merchant_category": "Fuel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-89E98818FA08",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T19:14:52.293062",
+        "amount_usd": 219.92,
+        "merchant_category": "Groceries",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AB5064467665",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T19:15:34.293062",
+        "amount_usd": 63.14,
+        "merchant_category": "Healthcare",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C107F6423562",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:16:07.293062",
+        "amount_usd": 136.04,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-747041A78A6E",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T19:16:49.293062",
+        "amount_usd": 478.28,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-4463BB7E1D9A",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T19:17:12.293062",
+        "amount_usd": 295.75,
+        "merchant_category": "Electronics",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1D88F99302EF",
+        "account_id": "ACCT-0011",
+        "timestamp": "2026-06-26T19:17:56.293062",
+        "amount_usd": 367.62,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-B4C767C76725",
+        "account_id": "ACCT-0019",
+        "timestamp": "2026-06-26T19:18:38.293062",
+        "amount_usd": 346.05,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2E945D768060",
+        "account_id": "ACCT-0004",
+        "timestamp": "2026-06-26T19:18:47.293062",
+        "amount_usd": 271.77,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-9130005A7367",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T19:19:14.293062",
+        "amount_usd": 295.89,
+        "merchant_category": "Groceries",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-0EEF6835DB97",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:19:44.293062",
+        "amount_usd": 208.36,
+        "merchant_category": "Healthcare",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-984B55DA5D65",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T19:20:17.293062",
+        "amount_usd": 316.67,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-9B9CA10723F0",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T19:20:40.293062",
+        "amount_usd": 445.1,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BC370EB83A54",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:21:18.293062",
+        "amount_usd": 94.18,
+        "merchant_category": "Healthcare",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A360DF4D6AAE",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:21:57.293062",
+        "amount_usd": 491.47,
+        "merchant_category": "Groceries",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BA35ECE0ED04",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T19:22:16.293062",
+        "amount_usd": 284.61,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D010D983307A",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T19:22:56.293062",
+        "amount_usd": 153.36,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C006B0997CA4",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T19:23:33.293062",
+        "amount_usd": 221.34,
+        "merchant_category": "Fuel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7191908C8E8C",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T19:24:04.293062",
+        "amount_usd": 314.56,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8F1CD692CAEE",
+        "account_id": "ACCT-0034",
+        "timestamp": "2026-06-26T19:24:47.293062",
+        "amount_usd": 451.23,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-FC2EA5C9419B",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:25:08.293062",
+        "amount_usd": 372.98,
+        "merchant_category": "Healthcare",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-23118ED61E24",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T19:25:27.293062",
+        "amount_usd": 404.71,
+        "merchant_category": "Groceries",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-55D6F8803914",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T19:25:47.293062",
+        "amount_usd": 85.72,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-927C85AACF3F",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T19:26:25.293062",
+        "amount_usd": 201.26,
+        "merchant_category": "Travel",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-93F02D270272",
+        "account_id": "ACCT-0015",
+        "timestamp": "2026-06-26T19:26:42.293062",
+        "amount_usd": 393.67,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BC59C7067907",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T19:26:50.293062",
+        "amount_usd": 69.64,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-C184C365455A",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T19:27:23.293062",
+        "amount_usd": 103.87,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E85DB3C22673",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T19:27:52.293062",
+        "amount_usd": 81.51,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-6CF3FD220D64",
+        "account_id": "ACCT-0018",
+        "timestamp": "2026-06-26T19:28:15.293062",
+        "amount_usd": 451.0,
+        "merchant_category": "Dining",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-395E22A7C1D7",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T19:28:47.293062",
+        "amount_usd": 8.67,
+        "merchant_category": "Subscription",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-9019E1C719BC",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T19:29:13.293062",
+        "amount_usd": 499.89,
+        "merchant_category": "Groceries",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F3D362BF6D41",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T19:29:54.293062",
+        "amount_usd": 326.54,
+        "merchant_category": "Subscription",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B61DB157047F",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:30:04.293062",
+        "amount_usd": 180.17,
+        "merchant_category": "Fuel",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-037AB7E2EFDD",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T19:30:26.293062",
+        "amount_usd": 435.41,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-261101CA789B",
+        "account_id": "ACCT-0032",
+        "timestamp": "2026-06-26T19:30:49.293062",
+        "amount_usd": 326.58,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-DF95319464D4",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T19:31:33.293062",
+        "amount_usd": 36.06,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-5AD9A484BEDA",
+        "account_id": "ACCT-0009",
+        "timestamp": "2026-06-26T19:31:53.293062",
+        "amount_usd": 37.63,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B22E219520DE",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T19:31:59.293062",
+        "amount_usd": 342.29,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A80E041B15CB",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T19:32:12.293062",
+        "amount_usd": 290.11,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-188D620FC16E",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T19:32:34.293062",
+        "amount_usd": 105.56,
+        "merchant_category": "Dining",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-DE815C61B475",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T19:33:07.293062",
+        "amount_usd": 389.54,
+        "merchant_category": "Healthcare",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D8721D1859F7",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:33:32.293062",
+        "amount_usd": 351.62,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0070FE54CCAF",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T19:33:41.293062",
+        "amount_usd": 179.42,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A025FB0A3BA0",
+        "account_id": "ACCT-0032",
+        "timestamp": "2026-06-26T19:34:11.293062",
+        "amount_usd": 297.48,
+        "merchant_category": "Dining",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B9CD0F53767C",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T19:34:29.293062",
+        "amount_usd": 420.29,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-94B3FC1688D3",
+        "account_id": "ACCT-0005",
+        "timestamp": "2026-06-26T19:34:57.293062",
+        "amount_usd": 6.99,
+        "merchant_category": "Healthcare",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2F55C650672B",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T19:35:30.293062",
+        "amount_usd": 281.16,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-FD648CB98938",
+        "account_id": "ACCT-0043",
+        "timestamp": "2026-06-26T19:35:36.293062",
+        "amount_usd": 104.1,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BF05F2749865",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T19:36:04.293062",
+        "amount_usd": 411.3,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-032B257F461E",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T19:36:20.293062",
+        "amount_usd": 79.37,
+        "merchant_category": "Retail",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-58F7FD7BACC5",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T19:36:26.293062",
+        "amount_usd": 17.17,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-77C2B5F9C59A",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T19:37:05.293062",
+        "amount_usd": 85.56,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-F70E862EB090",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T19:37:23.293062",
+        "amount_usd": 217.48,
+        "merchant_category": "Electronics",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-929C073726EB",
+        "account_id": "ACCT-0015",
+        "timestamp": "2026-06-26T19:37:46.293062",
+        "amount_usd": 321.36,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-57083E88D70D",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T19:38:23.293062",
+        "amount_usd": 54.6,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-97D5931002C6",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T19:38:46.293062",
+        "amount_usd": 65.57,
+        "merchant_category": "Dining",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E4069D4C494D",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T19:39:15.293062",
+        "amount_usd": 206.2,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E4DFB513706E",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T19:39:37.293062",
+        "amount_usd": 496.48,
+        "merchant_category": "Travel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-30B6AA113E32",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:40:02.293062",
+        "amount_usd": 282.91,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-C0C943BC3DCD",
+        "account_id": "ACCT-0011",
+        "timestamp": "2026-06-26T19:40:22.293062",
+        "amount_usd": 206.5,
+        "merchant_category": "Dining",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-68244A419074",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T19:40:42.293062",
+        "amount_usd": 496.84,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-03D834E3076E",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:41:08.293062",
+        "amount_usd": 93.19,
+        "merchant_category": "Healthcare",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7733AA1777E7",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T19:41:52.293062",
+        "amount_usd": 187.43,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2960B638251D",
+        "account_id": "ACCT-0025",
+        "timestamp": "2026-06-26T19:41:58.293062",
+        "amount_usd": 428.99,
+        "merchant_category": "Subscription",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-969D2560105A",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T19:42:43.293062",
+        "amount_usd": 409.11,
+        "merchant_category": "Dining",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A74B0DA4E589",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T19:43:06.293062",
+        "amount_usd": 27.83,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-336A1E5203E6",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T19:43:51.293062",
+        "amount_usd": 172.68,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-4AD795B22523",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T19:44:23.293062",
+        "amount_usd": 481.95,
+        "merchant_category": "Travel",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-443596B293C8",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T19:44:30.293062",
+        "amount_usd": 166.32,
+        "merchant_category": "Retail",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-254CEB439E0F",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T19:44:40.293062",
+        "amount_usd": 385.82,
+        "merchant_category": "Electronics",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-3EF6A263BD1E",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T19:45:09.293062",
+        "amount_usd": 70.34,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-24251ECDF8FF",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T19:45:45.293062",
+        "amount_usd": 268.74,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-89786DAAD2C9",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T19:45:50.293062",
+        "amount_usd": 56.03,
+        "merchant_category": "Electronics",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-8064700EE65B",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T19:46:17.293062",
+        "amount_usd": 321.42,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0E3BEA5D86CC",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T19:46:55.293062",
+        "amount_usd": 210.14,
+        "merchant_category": "Groceries",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-82DB8C93A0FB",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T19:47:21.293062",
+        "amount_usd": 496.68,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E2CB87A7F20F",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T19:47:55.293062",
+        "amount_usd": 155.93,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1409BFE55331",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T19:48:00.293062",
+        "amount_usd": 433.55,
+        "merchant_category": "Healthcare",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-239D8A0DEAB5",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:48:27.293062",
+        "amount_usd": 345.09,
+        "merchant_category": "Groceries",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-59E9DED72D3D",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T19:48:55.293062",
+        "amount_usd": 406.91,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0F461CEF5CA6",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T19:49:31.293062",
+        "amount_usd": 373.93,
+        "merchant_category": "Subscription",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-591E1D0C4863",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T19:50:10.293062",
+        "amount_usd": 440.43,
+        "merchant_category": "Retail",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D631265487D5",
+        "account_id": "ACCT-0031",
+        "timestamp": "2026-06-26T19:50:44.293062",
+        "amount_usd": 189.11,
+        "merchant_category": "Retail",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F672DA258FE6",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T19:51:06.293062",
+        "amount_usd": 263.03,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-9A54F223166C",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T19:51:34.293062",
+        "amount_usd": 411.2,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D11F3DE78F83",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T19:52:11.293062",
+        "amount_usd": 122.88,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-06EBFF2F3175",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T19:52:56.293062",
+        "amount_usd": 415.71,
+        "merchant_category": "Dining",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1B9004931DED",
+        "account_id": "ACCT-0018",
+        "timestamp": "2026-06-26T19:53:26.293062",
+        "amount_usd": 238.14,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AF913196FC9A",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T19:54:04.293062",
+        "amount_usd": 300.75,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0FF77C52B998",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T19:54:11.293062",
+        "amount_usd": 28.53,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2126B8B73D62",
+        "account_id": "ACCT-0017",
+        "timestamp": "2026-06-26T19:54:23.293062",
+        "amount_usd": 333.25,
+        "merchant_category": "Retail",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-02A86DC10867",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T19:54:56.293062",
+        "amount_usd": 472.46,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-47B0093D896B",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T19:55:08.293062",
+        "amount_usd": 57.74,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-DF42298F1218",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T19:55:20.293062",
+        "amount_usd": 137.87,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-FB551997E4F9",
+        "account_id": "ACCT-0009",
+        "timestamp": "2026-06-26T19:55:54.293062",
+        "amount_usd": 428.43,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E6E22B44FB5E",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T19:55:59.293062",
+        "amount_usd": 428.8,
+        "merchant_category": "Groceries",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-6822F4F99308",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T19:56:42.293062",
+        "amount_usd": 226.02,
+        "merchant_category": "Groceries",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0A1B1C541DAA",
+        "account_id": "ACCT-0017",
+        "timestamp": "2026-06-26T19:57:08.293062",
+        "amount_usd": 288.02,
+        "merchant_category": "Groceries",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-58BE9DD41038",
+        "account_id": "ACCT-0025",
+        "timestamp": "2026-06-26T19:57:15.293062",
+        "amount_usd": 263.97,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-1BEE559623D8",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T19:57:22.293062",
+        "amount_usd": 217.12,
+        "merchant_category": "Electronics",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2076E3580C31",
+        "account_id": "ACCT-0031",
+        "timestamp": "2026-06-26T19:58:03.293062",
+        "amount_usd": 379.53,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-175323028308",
+        "account_id": "ACCT-0001",
+        "timestamp": "2026-06-26T19:58:09.293062",
+        "amount_usd": 263.12,
+        "merchant_category": "Travel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-78AF83C9D282",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T19:58:31.293062",
+        "amount_usd": 462.36,
+        "merchant_category": "Healthcare",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-102D6CD62C4C",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T19:58:54.293062",
+        "amount_usd": 173.19,
+        "merchant_category": "Retail",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-488E34EEE35F",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T19:59:25.293062",
+        "amount_usd": 51.75,
+        "merchant_category": "Retail",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-B107B05DD2CD",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T20:00:10.293062",
+        "amount_usd": 407.11,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E1A5A785374A",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T20:00:52.293062",
+        "amount_usd": 394.05,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-23A52C6F347C",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T20:00:57.293062",
+        "amount_usd": 217.65,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-1891A50B6E0E",
+        "account_id": "ACCT-0030",
+        "timestamp": "2026-06-26T20:01:40.293062",
+        "amount_usd": 97.73,
+        "merchant_category": "Travel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-DDB3E26AAE7E",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T20:01:58.293062",
+        "amount_usd": 155.31,
+        "merchant_category": "Fuel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-6D9724677AF8",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T20:02:26.293062",
+        "amount_usd": 183.72,
+        "merchant_category": "Groceries",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1B880D23CF81",
+        "account_id": "ACCT-0031",
+        "timestamp": "2026-06-26T20:02:56.293062",
+        "amount_usd": 490.91,
+        "merchant_category": "Subscription",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0B3B39D2CA0D",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T20:03:12.293062",
+        "amount_usd": 491.49,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F907F00F90D9",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:03:36.293062",
+        "amount_usd": 149.06,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-39EFA802D003",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T20:03:42.293062",
+        "amount_usd": 147.46,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F75FF99765EE",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T20:03:56.293062",
+        "amount_usd": 85.83,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-360CA8F687DC",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T20:04:04.293062",
+        "amount_usd": 155.75,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-86DFF775130B",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T20:04:41.293062",
+        "amount_usd": 35.78,
+        "merchant_category": "Travel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8C134C4B0F2E",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T20:05:06.293062",
+        "amount_usd": 390.88,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-4B646401068E",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:05:31.293062",
+        "amount_usd": 493.62,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7EE81508FA57",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T20:06:08.293062",
+        "amount_usd": 276.27,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-C8241FDF136A",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:06:16.293062",
+        "amount_usd": 41.11,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F37D11515D07",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T20:06:43.293062",
+        "amount_usd": 69.58,
+        "merchant_category": "Dining",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-48348685FB0D",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T20:07:19.293062",
+        "amount_usd": 459.97,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-05F3003B534A",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T20:07:30.293062",
+        "amount_usd": 103.99,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F5D591962019",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T20:08:09.293062",
+        "amount_usd": 238.01,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-6C7B920E3659",
+        "account_id": "ACCT-0035",
+        "timestamp": "2026-06-26T20:08:18.293062",
+        "amount_usd": 82.46,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E8B6872280FD",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T20:08:33.293062",
+        "amount_usd": 344.55,
+        "merchant_category": "Fuel",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-D4478537C764",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T20:09:10.293062",
+        "amount_usd": 44.3,
+        "merchant_category": "Electronics",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-863D41606E18",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T20:09:36.293062",
+        "amount_usd": 323.17,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-28C218E3D958",
+        "account_id": "ACCT-0035",
+        "timestamp": "2026-06-26T20:10:08.293062",
+        "amount_usd": 46.06,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C65B96A9C66E",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T20:10:46.293062",
+        "amount_usd": 278.46,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E407C64674C6",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T20:10:57.293062",
+        "amount_usd": 213.14,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-5A957D76DA4B",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T20:11:27.293062",
+        "amount_usd": 64.42,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1289B5200605",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T20:11:42.293062",
+        "amount_usd": 112.04,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-FE9E74C96A00",
+        "account_id": "ACCT-0038",
+        "timestamp": "2026-06-26T20:12:27.293062",
+        "amount_usd": 460.63,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-A3BDC63AC6F3",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T20:13:06.293062",
+        "amount_usd": 259.37,
+        "merchant_category": "Groceries",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-84C6ED32C8D4",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T20:13:35.293062",
+        "amount_usd": 357.62,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-5007B4BACCFD",
+        "account_id": "ACCT-0010",
+        "timestamp": "2026-06-26T20:14:07.293062",
+        "amount_usd": 374.0,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8714A05DBC69",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T20:14:13.293062",
+        "amount_usd": 289.45,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A89B7BBB7560",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T20:14:56.293062",
+        "amount_usd": 126.98,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8E6CD874EDFF",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T20:15:04.293062",
+        "amount_usd": 286.83,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8091CD01DDF9",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T20:15:49.293062",
+        "amount_usd": 126.04,
+        "merchant_category": "Fuel",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-A0659220D4BF",
+        "account_id": "ACCT-0012",
+        "timestamp": "2026-06-26T20:16:01.293062",
+        "amount_usd": 285.9,
+        "merchant_category": "Subscription",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-B53C2296527F",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:16:21.293062",
+        "amount_usd": 368.6,
+        "merchant_category": "Electronics",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-88BF1EB7883B",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T20:17:04.293062",
+        "amount_usd": 59.65,
+        "merchant_category": "Electronics",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C645B56017F1",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T20:17:12.293062",
+        "amount_usd": 374.48,
+        "merchant_category": "Groceries",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0A66281281A7",
+        "account_id": "ACCT-0012",
+        "timestamp": "2026-06-26T20:17:30.293062",
+        "amount_usd": 350.03,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-15CCBFC0E820",
+        "account_id": "ACCT-0022",
+        "timestamp": "2026-06-26T20:18:08.293062",
+        "amount_usd": 379.39,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E0D5DBBE61B1",
+        "account_id": "ACCT-0011",
+        "timestamp": "2026-06-26T20:18:48.293062",
+        "amount_usd": 17.88,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AE81A9D89A3D",
+        "account_id": "ACCT-0034",
+        "timestamp": "2026-06-26T20:19:18.293062",
+        "amount_usd": 184.5,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-CC56E486BA08",
+        "account_id": "ACCT-0039",
+        "timestamp": "2026-06-26T20:19:48.293062",
+        "amount_usd": 434.68,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-66C63E620A48",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T20:20:03.293062",
+        "amount_usd": 301.53,
+        "merchant_category": "Healthcare",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-4C25C5AAFA3C",
+        "account_id": "ACCT-0005",
+        "timestamp": "2026-06-26T20:20:33.293062",
+        "amount_usd": 182.56,
+        "merchant_category": "Fuel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-952ECECC6563",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T20:21:11.293062",
+        "amount_usd": 481.75,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-87AA03A3212E",
+        "account_id": "ACCT-0034",
+        "timestamp": "2026-06-26T20:21:43.293062",
+        "amount_usd": 236.63,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C727F984093C",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T20:22:21.293062",
+        "amount_usd": 43.1,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-170F21DF7E3E",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T20:22:48.293062",
+        "amount_usd": 249.11,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-15CBC3950B36",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T20:23:23.293062",
+        "amount_usd": 234.21,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-6FE737687A57",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T20:23:48.293062",
+        "amount_usd": 299.08,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-69C01F1A1BB7",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T20:24:30.293062",
+        "amount_usd": 30.23,
+        "merchant_category": "Travel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2391B37B1299",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:24:54.293062",
+        "amount_usd": 69.69,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-075FCD821ACA",
+        "account_id": "ACCT-0025",
+        "timestamp": "2026-06-26T20:25:13.293062",
+        "amount_usd": 311.99,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-09A2F0D7867D",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T20:25:45.293062",
+        "amount_usd": 442.25,
+        "merchant_category": "Electronics",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-40C229683EFD",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:26:15.293062",
+        "amount_usd": 143.75,
+        "merchant_category": "Electronics",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-28129FCD259A",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T20:26:30.293062",
+        "amount_usd": 286.98,
+        "merchant_category": "Travel",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-61E3168BCA5E",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T20:27:12.293062",
+        "amount_usd": 391.6,
+        "merchant_category": "Healthcare",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BAE2B9D56BBB",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T20:27:18.293062",
+        "amount_usd": 56.4,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-04314407529F",
+        "account_id": "ACCT-0018",
+        "timestamp": "2026-06-26T20:27:23.293062",
+        "amount_usd": 334.96,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-500283302097",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T20:27:50.293062",
+        "amount_usd": 338.15,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D5DD21F71A01",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T20:28:19.293062",
+        "amount_usd": 116.51,
+        "merchant_category": "Electronics",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-3C55BB6DA426",
+        "account_id": "ACCT-0039",
+        "timestamp": "2026-06-26T20:28:34.293062",
+        "amount_usd": 391.56,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-1FDAB0627B8F",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T20:28:51.293062",
+        "amount_usd": 181.13,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2EDD986129E5",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T20:29:36.293062",
+        "amount_usd": 289.56,
+        "merchant_category": "Subscription",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E09AE3ACD439",
+        "account_id": "ACCT-0009",
+        "timestamp": "2026-06-26T20:30:08.293062",
+        "amount_usd": 204.23,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-ED807B9DF2CB",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T20:30:14.293062",
+        "amount_usd": 348.97,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BAB77D9F7AD4",
+        "account_id": "ACCT-0034",
+        "timestamp": "2026-06-26T20:30:29.293062",
+        "amount_usd": 348.92,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0E0A9E77E684",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T20:30:52.293062",
+        "amount_usd": 88.58,
+        "merchant_category": "Healthcare",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-B085E68F07DD",
+        "account_id": "ACCT-0025",
+        "timestamp": "2026-06-26T20:31:21.293062",
+        "amount_usd": 453.29,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A4BEAA208E47",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T20:31:31.293062",
+        "amount_usd": 63.86,
+        "merchant_category": "Travel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E8A8F4DCE910",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T20:31:57.293062",
+        "amount_usd": 267.85,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-511233CC571F",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T20:32:14.293062",
+        "amount_usd": 38.8,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-6EA9CC472BE4",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T20:32:59.293062",
+        "amount_usd": 496.29,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-46529522FD89",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T20:33:36.293062",
+        "amount_usd": 233.83,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8085896657F2",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T20:34:03.293062",
+        "amount_usd": 407.15,
+        "merchant_category": "Subscription",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-036EC21FA3BC",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T20:34:36.293062",
+        "amount_usd": 150.82,
+        "merchant_category": "Groceries",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-2B57FE416E33",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T20:35:14.293062",
+        "amount_usd": 151.83,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-C0B641EDC139",
+        "account_id": "ACCT-0043",
+        "timestamp": "2026-06-26T20:35:19.293062",
+        "amount_usd": 374.56,
+        "merchant_category": "Electronics",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B17920C97BC5",
+        "account_id": "ACCT-0019",
+        "timestamp": "2026-06-26T20:35:46.293062",
+        "amount_usd": 98.12,
+        "merchant_category": "Travel",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2F212833AFCD",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T20:36:07.293062",
+        "amount_usd": 318.34,
+        "merchant_category": "Healthcare",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-FF457490D5B0",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T20:36:39.293062",
+        "amount_usd": 490.55,
+        "merchant_category": "Travel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-43DF996813C0",
+        "account_id": "ACCT-0024",
+        "timestamp": "2026-06-26T20:37:04.293062",
+        "amount_usd": 262.83,
+        "merchant_category": "Fuel",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-2FB6FF2D157B",
+        "account_id": "ACCT-0032",
+        "timestamp": "2026-06-26T20:37:18.293062",
+        "amount_usd": 202.97,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-CD46A9C9F1D7",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T20:38:03.293062",
+        "amount_usd": 284.19,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-07413FA4E8D2",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T20:38:39.293062",
+        "amount_usd": 428.55,
+        "merchant_category": "Fuel",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-AF7AE8FCA8EE",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:39:08.293062",
+        "amount_usd": 377.44,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D01CC183174F",
+        "account_id": "ACCT-0043",
+        "timestamp": "2026-06-26T20:39:53.293062",
+        "amount_usd": 179.66,
+        "merchant_category": "Fuel",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-8498EE6A00E7",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:40:18.293062",
+        "amount_usd": 174.06,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C68BB643FEC6",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T20:40:25.293062",
+        "amount_usd": 142.58,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2923BBBF7AE8",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T20:40:32.293062",
+        "amount_usd": 190.91,
+        "merchant_category": "Retail",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-99241489BC94",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T20:40:49.293062",
+        "amount_usd": 274.24,
+        "merchant_category": "Groceries",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D8DE580CB8A7",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T20:41:03.293062",
+        "amount_usd": 464.45,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AFB7EDBED847",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T20:41:10.293062",
+        "amount_usd": 440.11,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BE265D06549E",
+        "account_id": "ACCT-0028",
+        "timestamp": "2026-06-26T20:41:45.293062",
+        "amount_usd": 92.91,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-0CC06E1D5F66",
+        "account_id": "ACCT-0019",
+        "timestamp": "2026-06-26T20:42:28.293062",
+        "amount_usd": 395.62,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-4B1C71DC8055",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:42:43.293062",
+        "amount_usd": 39.34,
+        "merchant_category": "Healthcare",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-93C84D964530",
+        "account_id": "ACCT-0038",
+        "timestamp": "2026-06-26T20:43:03.293062",
+        "amount_usd": 340.87,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-872473F84949",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T20:43:23.293062",
+        "amount_usd": 302.38,
+        "merchant_category": "Travel",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-BC1A9FA5358F",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T20:43:58.293062",
+        "amount_usd": 387.38,
+        "merchant_category": "Fuel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D7D1C93B1005",
+        "account_id": "ACCT-0001",
+        "timestamp": "2026-06-26T20:44:33.293062",
+        "amount_usd": 111.26,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B8C4AABF4919",
+        "account_id": "ACCT-0030",
+        "timestamp": "2026-06-26T20:45:06.293062",
+        "amount_usd": 345.64,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-24F82BC89156",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T20:45:45.293062",
+        "amount_usd": 467.19,
+        "merchant_category": "Retail",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-858AF0FFA0D1",
+        "account_id": "ACCT-0019",
+        "timestamp": "2026-06-26T20:45:53.293062",
+        "amount_usd": 413.31,
+        "merchant_category": "Dining",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-CBE391475BCB",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T20:46:29.293062",
+        "amount_usd": 251.66,
+        "merchant_category": "Dining",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-5A01EBA59D5D",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T20:46:58.293062",
+        "amount_usd": 104.29,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-19A5EEE66660",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T20:47:25.293062",
+        "amount_usd": 115.01,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-73ED02851E5B",
+        "account_id": "ACCT-0031",
+        "timestamp": "2026-06-26T20:47:57.293062",
+        "amount_usd": 185.78,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-E92D25F0B969",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T20:48:16.293062",
+        "amount_usd": 243.93,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-FBCAE0775893",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T20:48:49.293062",
+        "amount_usd": 496.94,
+        "merchant_category": "Fuel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2CBE89153D59",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T20:49:06.293062",
+        "amount_usd": 424.37,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A0A05192315F",
+        "account_id": "ACCT-0004",
+        "timestamp": "2026-06-26T20:49:46.293062",
+        "amount_usd": 12.79,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-DB2D084D6FD5",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T20:50:09.293062",
+        "amount_usd": 478.84,
+        "merchant_category": "Subscription",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-079E016505A8",
+        "account_id": "ACCT-0030",
+        "timestamp": "2026-06-26T20:50:34.293062",
+        "amount_usd": 266.9,
+        "merchant_category": "Fuel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-3BED16945CDB",
+        "account_id": "ACCT-0035",
+        "timestamp": "2026-06-26T20:51:01.293062",
+        "amount_usd": 282.66,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-25F60A528ECA",
+        "account_id": "ACCT-0037",
+        "timestamp": "2026-06-26T20:51:25.293062",
+        "amount_usd": 475.52,
+        "merchant_category": "Dining",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-45B95A64C463",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T20:51:30.293062",
+        "amount_usd": 16.53,
+        "merchant_category": "Fuel",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A391477B9A51",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T20:51:56.293062",
+        "amount_usd": 280.28,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-FB8F022184B6",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T20:52:20.293062",
+        "amount_usd": 321.41,
+        "merchant_category": "Subscription",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-12A9C4CB55EB",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T20:53:04.293062",
+        "amount_usd": 369.49,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-655875D23BAF",
+        "account_id": "ACCT-0009",
+        "timestamp": "2026-06-26T20:53:20.293062",
+        "amount_usd": 442.85,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-686625A9B966",
+        "account_id": "ACCT-0003",
+        "timestamp": "2026-06-26T20:53:29.293062",
+        "amount_usd": 73.14,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-E6C0884C1A49",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:53:45.293062",
+        "amount_usd": 269.9,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-2806D7AF5578",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T20:54:04.293062",
+        "amount_usd": 412.04,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-03B32E86C611",
+        "account_id": "ACCT-0040",
+        "timestamp": "2026-06-26T20:54:46.293062",
+        "amount_usd": 477.98,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-AACCDB750E22",
+        "account_id": "ACCT-0049",
+        "timestamp": "2026-06-26T20:55:13.293062",
+        "amount_usd": 496.07,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C8AFD49F7AD3",
+        "account_id": "ACCT-0034",
+        "timestamp": "2026-06-26T20:55:33.293062",
+        "amount_usd": 139.76,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-A576C141B3CA",
+        "account_id": "ACCT-0007",
+        "timestamp": "2026-06-26T20:56:05.293062",
+        "amount_usd": 238.72,
+        "merchant_category": "Groceries",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-74267D0ABE9B",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T20:56:47.293062",
+        "amount_usd": 458.59,
+        "merchant_category": "Dining",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7A6C3476AC54",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T20:57:14.293062",
+        "amount_usd": 20.75,
+        "merchant_category": "Retail",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-07C7FDFC2C8B",
+        "account_id": "ACCT-0044",
+        "timestamp": "2026-06-26T20:57:44.293062",
+        "amount_usd": 487.75,
+        "merchant_category": "Healthcare",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-292B3461A6B0",
+        "account_id": "ACCT-0004",
+        "timestamp": "2026-06-26T20:58:02.293062",
+        "amount_usd": 309.04,
+        "merchant_category": "Fuel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-994540CE5736",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T20:58:16.293062",
+        "amount_usd": 137.97,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E382EBB9F9C8",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T20:58:56.293062",
+        "amount_usd": 51.12,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-019F4E06F9EE",
+        "account_id": "ACCT-0020",
+        "timestamp": "2026-06-26T20:59:22.293062",
+        "amount_usd": 386.94,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-DF11F981A5C4",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T21:00:06.293062",
+        "amount_usd": 272.2,
+        "merchant_category": "Travel",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-F4967CBE1FE1",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T21:00:24.293062",
+        "amount_usd": 64.66,
+        "merchant_category": "Healthcare",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-86D704BB3124",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T21:00:38.293062",
+        "amount_usd": 255.08,
+        "merchant_category": "Subscription",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7657A6F76524",
+        "account_id": "ACCT-0048",
+        "timestamp": "2026-06-26T21:01:10.293062",
+        "amount_usd": 31.69,
+        "merchant_category": "Healthcare",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-4F88224AE936",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T21:01:31.293062",
+        "amount_usd": 165.58,
+        "merchant_category": "Travel",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2BA4E67F0D71",
+        "account_id": "ACCT-0025",
+        "timestamp": "2026-06-26T21:01:38.293062",
+        "amount_usd": 37.91,
+        "merchant_category": "Dining",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-8ECEF055CA58",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T21:02:09.293062",
+        "amount_usd": 357.43,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C0DC19D8EB38",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T21:02:26.293062",
+        "amount_usd": 495.11,
+        "merchant_category": "Subscription",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-739D07073BC6",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T21:03:06.293062",
+        "amount_usd": 66.79,
+        "merchant_category": "Fuel",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-3777B730694C",
+        "account_id": "ACCT-0013",
+        "timestamp": "2026-06-26T21:03:25.293062",
+        "amount_usd": 117.12,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-BAD3899A6B90",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T21:04:09.293062",
+        "amount_usd": 133.42,
+        "merchant_category": "Electronics",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D5A0F4B53DAA",
+        "account_id": "ACCT-0012",
+        "timestamp": "2026-06-26T21:04:45.293062",
+        "amount_usd": 7.81,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-DBD19F03FB6E",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T21:04:52.293062",
+        "amount_usd": 228.79,
+        "merchant_category": "Groceries",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-60464BCE3A35",
+        "account_id": "ACCT-0021",
+        "timestamp": "2026-06-26T21:05:14.293062",
+        "amount_usd": 359.83,
+        "merchant_category": "Dining",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-BFC58857E15A",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T21:05:29.293062",
+        "amount_usd": 287.3,
+        "merchant_category": "Fuel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-DBCB25FAC7BA",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T21:05:55.293062",
+        "amount_usd": 14.48,
+        "merchant_category": "Dining",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-903901ED52DB",
+        "account_id": "ACCT-0016",
+        "timestamp": "2026-06-26T21:06:32.293062",
+        "amount_usd": 300.57,
+        "merchant_category": "Electronics",
+        "location_country": "USA",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-D5D78255301A",
+        "account_id": "ACCT-0033",
+        "timestamp": "2026-06-26T21:06:41.293062",
+        "amount_usd": 305.72,
+        "merchant_category": "Electronics",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-EA77373E1DAE",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T21:07:22.293062",
+        "amount_usd": 63.61,
+        "merchant_category": "Fuel",
+        "location_country": "Japan",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-5FC2D2713E9F",
+        "account_id": "ACCT-0002",
+        "timestamp": "2026-06-26T21:07:46.293062",
+        "amount_usd": 184.07,
+        "merchant_category": "Groceries",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-695750E8791B",
+        "account_id": "ACCT-0009",
+        "timestamp": "2026-06-26T21:08:11.293062",
+        "amount_usd": 210.02,
+        "merchant_category": "Healthcare",
+        "location_country": "Canada",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-5378EDB142AC",
+        "account_id": "ACCT-0027",
+        "timestamp": "2026-06-26T21:08:29.293062",
+        "amount_usd": 469.25,
+        "merchant_category": "Healthcare",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E13381F6EEA0",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T21:09:05.293062",
+        "amount_usd": 293.07,
+        "merchant_category": "Healthcare",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-93EBBCF331FD",
+        "account_id": "ACCT-0004",
+        "timestamp": "2026-06-26T21:09:24.293062",
+        "amount_usd": 330.51,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AB91DFF00F4A",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T21:09:50.293062",
+        "amount_usd": 30.78,
+        "merchant_category": "Retail",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-E3B05E1A1E86",
+        "account_id": "ACCT-0046",
+        "timestamp": "2026-06-26T21:09:55.293062",
+        "amount_usd": 68.25,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-9F11DB9F2C80",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T21:10:24.293062",
+        "amount_usd": 403.4,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-93286F0039F7",
+        "account_id": "ACCT-0005",
+        "timestamp": "2026-06-26T21:10:46.293062",
+        "amount_usd": 359.42,
+        "merchant_category": "Electronics",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-AF928C0C6050",
+        "account_id": "ACCT-0008",
+        "timestamp": "2026-06-26T21:10:53.293062",
+        "amount_usd": 299.71,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1BCB08D07603",
+        "account_id": "ACCT-0036",
+        "timestamp": "2026-06-26T21:11:16.293062",
+        "amount_usd": 267.13,
+        "merchant_category": "Dining",
+        "location_country": "UK",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-E7E7D85A549D",
+        "account_id": "ACCT-0029",
+        "timestamp": "2026-06-26T21:11:29.293062",
+        "amount_usd": 271.73,
+        "merchant_category": "Electronics",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-1AA741A5D13C",
+        "account_id": "ACCT-0030",
+        "timestamp": "2026-06-26T21:11:57.293062",
+        "amount_usd": 381.89,
+        "merchant_category": "Retail",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-0A387F3E9F84",
+        "account_id": "ACCT-0006",
+        "timestamp": "2026-06-26T21:12:35.293062",
+        "amount_usd": 272.41,
+        "merchant_category": "Electronics",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-63424D44BB83",
+        "account_id": "ACCT-0045",
+        "timestamp": "2026-06-26T21:12:50.293062",
+        "amount_usd": 82.45,
+        "merchant_category": "Subscription",
+        "location_country": "Australia",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-59EC49C78AB3",
+        "account_id": "ACCT-0004",
+        "timestamp": "2026-06-26T21:13:28.293062",
+        "amount_usd": 158.58,
+        "merchant_category": "Travel",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F5168F93916B",
+        "account_id": "ACCT-0012",
+        "timestamp": "2026-06-26T21:14:10.293062",
+        "amount_usd": 283.49,
+        "merchant_category": "Fuel",
+        "location_country": "Canada",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-542AA91C0663",
+        "account_id": "ACCT-0015",
+        "timestamp": "2026-06-26T21:14:43.293062",
+        "amount_usd": 360.21,
+        "merchant_category": "Healthcare",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-D11DB9C0F905",
+        "account_id": "ACCT-0026",
+        "timestamp": "2026-06-26T21:15:18.293062",
+        "amount_usd": 147.3,
+        "merchant_category": "Electronics",
+        "location_country": "France",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-1965E855C29A",
+        "account_id": "ACCT-0042",
+        "timestamp": "2026-06-26T21:15:23.293062",
+        "amount_usd": 99.49,
+        "merchant_category": "Fuel",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-C80F3F68C4E1",
+        "account_id": "ACCT-0050",
+        "timestamp": "2026-06-26T21:16:05.293062",
+        "amount_usd": 240.63,
+        "merchant_category": "Dining",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-A2E71CA623D1",
+        "account_id": "ACCT-0014",
+        "timestamp": "2026-06-26T21:16:37.293062",
+        "amount_usd": 295.0,
+        "merchant_category": "Retail",
+        "location_country": "UK",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-D4068F44F107",
+        "account_id": "ACCT-0031",
+        "timestamp": "2026-06-26T21:17:04.293062",
+        "amount_usd": 248.02,
+        "merchant_category": "Retail",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-2B7A73EDA5BF",
+        "account_id": "ACCT-0011",
+        "timestamp": "2026-06-26T21:17:48.293062",
+        "amount_usd": 268.31,
+        "merchant_category": "Subscription",
+        "location_country": "Germany",
+        "status": "declined"
+    },
+    {
+        "transaction_id": "TXN-D393442A72FF",
+        "account_id": "ACCT-0023",
+        "timestamp": "2026-06-26T21:17:54.293062",
+        "amount_usd": 141.33,
+        "merchant_category": "Electronics",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-7AA34A5596D5",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T21:18:23.293062",
+        "amount_usd": 48.21,
+        "merchant_category": "Retail",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-B5DBD0CB0DA1",
+        "account_id": "ACCT-0017",
+        "timestamp": "2026-06-26T21:18:48.293062",
+        "amount_usd": 379.41,
+        "merchant_category": "Travel",
+        "location_country": "Australia",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-BEE1D898A768",
+        "account_id": "ACCT-0005",
+        "timestamp": "2026-06-26T21:18:55.293062",
+        "amount_usd": 430.72,
+        "merchant_category": "Travel",
+        "location_country": "France",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-144F54928499",
+        "account_id": "ACCT-0041",
+        "timestamp": "2026-06-26T21:19:21.293062",
+        "amount_usd": 299.28,
+        "merchant_category": "Groceries",
+        "location_country": "Japan",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F36B95CAA879",
+        "account_id": "ACCT-0047",
+        "timestamp": "2026-06-26T21:19:48.293062",
+        "amount_usd": 188.97,
+        "merchant_category": "Healthcare",
+        "location_country": "Germany",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-F4BD8A3200B8",
+        "account_id": "ACCT-FRAUD-IT",
+        "timestamp": "2026-06-26T21:51:32.297490",
+        "amount_usd": 154.75,
+        "merchant_category": "Dining",
+        "location_country": "USA",
+        "status": "approved"
+    },
+    {
+        "transaction_id": "TXN-33CD66C08173",
+        "account_id": "ACCT-FRAUD-IT",
+        "timestamp": "2026-06-26T21:53:32.297490",
+        "amount_usd": 1941.82,
+        "merchant_category": "Electronics",
+        "location_country": "Russia",
+        "status": "approved"
+    }
+]
